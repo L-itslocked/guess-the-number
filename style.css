@@ -1,8 +1,8 @@
 body {
   display: block;
   margin: 50px auto;
-  width: 100vh;
-  height: 100vh;
+  width: 50vh;
+  height: 50vh;
   text-align: center;
 }
 button {
