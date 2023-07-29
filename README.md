@@ -1,6 +1,6 @@
 ### Links
 
-View live: [Guess the Number - Mini Challenge](https://codepen.io/Itslocked/pen/GRwwMPO)
+View on CodePen: [Guess the Number - Mini Challenge](https://codepen.io/Itslocked/pen/GRwwMPO)
 
 ### Built with
 
